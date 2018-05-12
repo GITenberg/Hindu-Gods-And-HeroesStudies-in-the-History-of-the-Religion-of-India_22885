@@ -1,0 +1,33 @@
+_repo: Hindu-Gods-And-HeroesStudies-in-the-History-of-the-Religion-of-India_22885
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barnett, Lionel D. (Lionel David)
+    aliases:
+    - Barnett, L. D. (Lionel David)
+    - Barnett, Lionel David
+    birthdate: 1871
+    deathdate: 1960
+    gutenberg_agent_id: '25584'
+    url: http://www.gutenberg.org/2009/agents/25584
+description: ''
+gutenberg_bookshelf: Hinduism
+gutenberg_issued: '2007-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hindu mythology'
+- !lcc 'BL'
+- !lcsh 'Hinduism'
+title: 'Hindu Gods And Heroes
+
+  Studies in the History of the Religion of India'
+url: http://www.gutenberg.org/ebooks/22885
